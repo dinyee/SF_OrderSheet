@@ -112,19 +112,44 @@ def parse_text_to_data(text_path):
             current_product["Product No"] = parts[0]
             current_product["Quantity"] = int(float(parts[1]))
             current_product["Units"] = parts[2]
-            current_product["Description"] = ' '.join(parts[3:-3]) + '>'
+            
+            # 找到最後三個元素的位置（日期、價格和值）
+            for i in range(len(parts)-1, -1, -1):
+                # 嘗試匹配日期格式（可能與前面的內容黏在一起）
+                date_match = re.search(r'(\d{2}/\d{2}/\d{2})$', parts[i])
+                if date_match:
+                    date_str = date_match.group(1)
+                    # 如果日期前面有其他內容，將其加入到描述中
+                    if len(parts[i]) > len(date_str):
+                        extra_content = parts[i][:-len(date_str)]
+                        parts[i] = date_str
+                        parts.insert(i, extra_content)
+                    break
+
+            # 重新處理描述和其他欄位
+            description_end = len(parts) - 3
+            current_product["Description"] = ' '.join(parts[3:description_end]) + '>'
 
             # 修改日期处理部分
-            date_str = parts[-3]
-            date_obj = datetime.strptime(date_str, '%d/%m/%y')
-            formatted_date = date_obj.strftime('%Y/%m/%d')
-            current_product["Date Req"] = formatted_date
+            try:
+                date_str = parts[-3]
+                date_obj = datetime.strptime(date_str, '%d/%m/%y')
+                formatted_date = date_obj.strftime('%Y/%m/%d')
+                current_product["Date Req"] = formatted_date
+            except ValueError as e:
+                print(f"Warning: Invalid date format in line: {line}")
+                current_product["Date Req"] = "Invalid Date"
 
-            current_product["Nett Price"] = round(float(parts[-2]), 2)
-            # 修改 Value 的计算方式
-            nett_price = round(float(parts[-2]), 2)
-            quantity = int(float(parts[1]))
-            current_product["Value"] = round(nett_price * quantity, 2)  # Value = Nett Price * Quantity
+            try:
+                current_product["Nett Price"] = round(float(parts[-2]), 2)
+                # 修改 Value 的计算方式
+                nett_price = round(float(parts[-2]), 2)
+                quantity = int(float(parts[1]))
+                current_product["Value"] = round(nett_price * quantity, 2)  # Value = Nett Price * Quantity
+            except ValueError as e:
+                print(f"Warning: Invalid price format in line: {line}")
+                current_product["Nett Price"] = 0
+                current_product["Value"] = 0
 
         elif line.strip().startswith('TOTAL'):
             continue

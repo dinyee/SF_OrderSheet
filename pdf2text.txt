@@ -1,164 +1,513 @@
-(cid:1)(cid:2)(cid:3)(cid:4)(cid:5)(cid:6)(cid:7)(cid:4)(cid:1)(cid:8)(cid:2)(cid:3) (cid:8)(cid:5) (cid:11)(cid:6)(cid:5)(cid:7) (cid:3)(cid:14)(cid:8)(cid:5)(cid:15)(cid:14)(cid:5)
-(cid:16)(cid:17) (cid:11)(cid:6)(cid:5)(cid:7) (cid:3)(cid:14)(cid:8)(cid:5)(cid:15)(cid:14)(cid:5) (cid:7)(cid:18)(cid:2)(cid:8)(cid:19)(cid:20)(cid:14)(cid:15)(cid:21)(cid:14)(cid:22)(cid:14)(cid:2)(cid:4)(cid:3)
-(cid:2)(cid:3) (cid:4)(cid:5)(cid:6)(cid:5)(cid:7)(cid:8) (cid:11) (cid:2) (cid:14)(cid:15)(cid:8)(cid:8)(cid:16)(cid:7)(cid:5)(cid:4)(cid:14)(cid:17)(cid:15)(cid:14) (cid:14)(cid:5)(cid:3)(cid:18) (cid:19)(cid:3) (cid:5)(cid:17)(cid:19)(cid:7)(cid:16) (cid:19)(cid:6)(cid:20)(cid:3) (cid:21)(cid:16)(cid:5)(cid:18)(cid:22)(cid:5)(cid:17)(cid:5)(cid:3) (cid:11) (cid:23)(cid:5) (cid:2) (cid:23)(cid:5) (cid:24)(cid:15)(cid:25)(cid:5)(cid:4) (cid:19)(cid:3)(cid:18) (cid:19) (cid:11) (cid:4)(cid:17)(cid:19)(cid:16) (cid:19)(cid:6)(cid:20)(cid:3) (cid:21)(cid:16)(cid:5)(cid:18)(cid:22)(cid:5)(cid:17)(cid:5)(cid:3) (cid:21)(cid:7) (cid:23) (cid:6) (cid:3)(cid:11)(cid:7)(cid:4)(cid:17)(cid:5)(cid:18)(cid:18)(cid:5)(cid:16)(cid:7)(cid:26)(cid:5)(cid:4)(cid:25)(cid:18)(cid:19) (cid:5) (cid:19)(cid:3)(cid:18) (cid:8)(cid:4)(cid:7)(cid:6)(cid:5)
-(cid:17)(cid:15)(cid:14) (cid:11) (cid:16)(cid:16) (cid:21) (cid:21)(cid:7) (cid:23)(cid:7)(cid:3) (cid:27)(cid:28) (cid:23) (cid:15)(cid:4)(cid:14) (cid:11)(cid:4) (cid:17) (cid:23)(cid:5) (cid:4)(cid:5)(cid:6)(cid:5)(cid:7)(cid:8) (cid:11) (cid:2) (cid:23)(cid:24)(cid:25)(cid:26)(cid:27)(cid:28)(cid:29)(cid:30)(cid:31)(cid:24) (cid:28)!"#$%(cid:17)(cid:26)$&(cid:19)(cid:3)(cid:18) (cid:23)(cid:5) (cid:24)(cid:15)(cid:25)(cid:5)(cid:4)(cid:29)
-'(cid:17) (cid:22) (cid:7) (cid:1)(cid:2)(cid:1)(cid:2)(cid:21)( )(cid:5)(cid:1)(cid:7) (cid:4)(cid:1)(cid:8)(cid:2)((cid:7)(cid:8) (cid:4)(cid:1)(cid:2)(cid:21)(cid:3)(cid:6)(cid:11)(cid:11)(cid:20)(cid:1)(cid:14)(cid:5)(cid:3)
-(cid:16)(cid:5)(cid:19)(cid:14)(cid:5) (cid:4)(cid:5)(cid:11)(cid:5)(cid:4) (cid:30) (cid:4)(cid:20) (cid:31)(cid:3)(cid:14) (cid:4)(cid:15)(cid:6) (cid:7) (cid:3) (cid:15)*+ (cid:19)(cid:1)*,,-(cid:5)(cid:30)% .(cid:17)
-!(cid:17)(cid:19)(cid:7)(cid:16) (cid:11) (cid:4) "#$ (cid:19)(cid:8)(cid:8)(cid:4) (cid:26)(cid:19)(cid:16) (cid:19)(cid:3)(cid:18) #% &(cid:5) (cid:14)(cid:5)(cid:3) (cid:1)(cid:3)* (cid:5)(cid:14)*+ (cid:7)(cid:30)(cid:25)/(cid:29)"#$%(cid:17)(cid:26)$&(cid:19)(cid:3)(cid:18) (cid:23)(cid:5) &(cid:15)(cid:25)(cid:5)(cid:4)(cid:29)
-0(cid:17) (cid:15)(cid:14)(cid:20)(cid:1)1(cid:14)(cid:5)2 (cid:15)(cid:15)(cid:5)(cid:14)(cid:3)(cid:3) -(cid:17) (cid:1)(cid:2)1(cid:8)(cid:1)(cid:7)(cid:14) (cid:15)(cid:15)(cid:5)(cid:14)(cid:3)(cid:3)
-%(cid:2)' ((cid:2))*$#+"(cid:31))),! !-+# ./! %(cid:2)' ((cid:2))*$#+"(cid:31))),! !-+# ./!
-(cid:29) (cid:2)(cid:29) (cid:24) 0 12345 (cid:29) (cid:2)(cid:29) (cid:24) 0 12345
-(cid:1)(cid:2)(cid:3)(cid:4)(cid:6)(cid:3)(cid:7)(cid:8) (cid:7) (cid:1)(cid:2)(cid:3)(cid:4)(cid:6)(cid:3)(cid:7)(cid:8) (cid:7)
-6(cid:5)&(cid:5)(cid:16) -(cid:16)(cid:7) .(cid:4)(cid:5)(cid:5) 7 (cid:3)(cid:5) 6(cid:5)&(cid:5)(cid:16) -(cid:16)(cid:7) .(cid:4)(cid:5)(cid:5) / (cid:3)(cid:5)
-)(cid:15)&(cid:19)(cid:7) )(cid:15)&(cid:19)(cid:7) *(cid:3)(cid:7) (cid:5)(cid:18) -(cid:4)(cid:19)&!(cid:17)(cid:7)(cid:4)(cid:19)(cid:5)(cid:14)
-*(cid:3)(cid:7) (cid:5)(cid:18) -(cid:4)(cid:19)& !(cid:17)(cid:7)(cid:4)(cid:19) (cid:5)(cid:14)(cid:29) !"-(cid:31),8" (cid:23)(cid:14)(cid:7)(cid:3)%(cid:19)(cid:14)(cid:5)(cid:5)(cid:4)(cid:22)$(cid:27)(cid:29)!#(cid:17)(cid:2)(cid:28)(cid:29)(cid:30)(cid:30)(cid:25)"#$%(cid:17)(cid:26)$&9
-(cid:1)(cid:3)* (cid:5)(cid:14)*(cid:2)(cid:8)1(cid:14)3&(cid:28)(cid:25)(cid:22)(cid:14) (cid:26)(cid:26)$(cid:24)#/(cid:29)"#$%(cid:17)(cid:26)$&(cid:29)
-4(cid:17) (cid:3) (cid:1)(cid:11)(cid:11)(cid:1)(cid:2)(cid:21)(cid:1)(cid:2)(cid:3)(cid:4)(cid:5)(cid:6)(cid:7)(cid:4)(cid:1)(cid:8)(cid:2)(cid:3)
-)(cid:4)(cid:19)(cid:11) $ (cid:17)(cid:17)(cid:5)(cid:4)(cid:6)(cid:7)(cid:19)(cid:16)(cid:31)(cid:3)(cid:26) (cid:7)(cid:6)(cid:5): (cid:19)(cid:6)(cid:20)(cid:7)(cid:3)(cid:22),(cid:7)(cid:14) (cid:7)(cid:3)(cid:6)(cid:16)(cid:15)(cid:18)(cid:7)(cid:3)(cid:22) (cid:23)(cid:5) &(cid:5)(cid:16) (cid:21) (cid:18)(cid:5) (cid:19)(cid:7)(cid:16)(cid:14) &(cid:5) (cid:14)(cid:5)(cid:3) (cid:6) (cid:3)(cid:6)(cid:5)(cid:4)(cid:3)(cid:5)(cid:18) (cid:2) (cid:24)(cid:15)(cid:25)(cid:5)(cid:4) !0(cid:8)(cid:5)(cid:18)(cid:7) (cid:4) (cid:19)(cid:3)(cid:18)(cid:15)5)*(cid:14)(cid:20)(cid:22) (cid:5)(cid:17)(cid:20)(cid:8)(cid:21)(cid:1)(cid:3)(cid:4)(cid:1)(cid:7)(cid:3)"#$%(cid:17)(cid:26)$&(cid:11) (cid:4) (cid:14)(cid:23)(cid:7)(cid:8)(cid:8)(cid:7)(cid:3)(cid:22)
-(cid:7)(cid:3)(cid:14) (cid:4)(cid:15)(cid:6) (cid:7) (cid:3) (cid:19)(cid:3)(cid:18) (cid:19)(cid:8)(cid:8)(cid:4) (cid:26)(cid:19)(cid:16)(cid:29)
-(cid:1) (cid:2) %(cid:15)(cid:17)&(cid:5)(cid:4) (cid:17)(cid:5)(cid:3) (cid:7) (cid:3)(cid:5)(cid:18)(cid:19)(cid:14) ((cid:5)(cid:11)(cid:5)(cid:4)(cid:5)(cid:3)(cid:6)(cid:5) (cid:3) -(cid:30)(cid:24):(cid:24), (cid:1) # (cid:19)(cid:16) ?(cid:4) (cid:14)(cid:14) (cid:30)(cid:5)(cid:7)(cid:22)(cid:23) 9 )(cid:7)(cid:17)(cid:5)(cid:3)(cid:14)(cid:7) (cid:3)(cid:14) ;(cid:24) 0(cid:5)(cid:14): (cid:19)(cid:6)(cid:20)(cid:19)(cid:22)(cid:5)(cid:14)<
-(cid:1) (cid:2)(cid:15)(cid:4) (cid:4) (cid:18)(cid:15)(cid:6) (cid:19)(cid:4) % (cid:29) ;!(cid:19)(cid:6)(cid:23)(cid:16)(cid:7)(cid:3)(cid:5) (cid:31) (cid:5)(cid:17)< (cid:1) +(cid:15)(cid:17)(cid:17)(cid:19)(cid:4)(cid:25)+(cid:23)(cid:5)(cid:5) (cid:11) =+ $ (cid:18)(cid:5) %(cid:5) :?(cid:4) (cid:14)(cid:14) (cid:30)(cid:5)(cid:7)(cid:22)(cid:23) 9 '(cid:19)(cid:16)(cid:15)(cid:5);!(cid:19)(cid:6)(cid:23)(cid:16)(cid:7)(cid:3)(cid:5) (cid:31) (cid:5)(cid:17)<
-(cid:1) $(cid:15)(cid:14) (cid:17)(cid:14) =+ $ (cid:18)(cid:5) ;(cid:5)(cid:19)(cid:6)(cid:23)(cid:16)(cid:7)(cid:3)(cid:5) (cid:31) (cid:5)(cid:17)< (cid:1) $ (cid:17)(cid:8)(cid:19)(cid:3)(cid:25)+ (cid:19)(cid:17)(cid:8) 9 +(cid:7)(cid:22)(cid:3)(cid:19)(cid:15)(cid:4)(cid:5)
-(cid:1) $ (cid:15)(cid:3) (cid:4)(cid:25) (cid:11) (cid:2)(cid:4)(cid:7)(cid:22)(cid:7)(cid:3) ;(cid:5)(cid:19)(cid:6)(cid:23)(cid:16)(cid:7)(cid:3)(cid:5) (cid:31) (cid:5)(cid:17)< (cid:1) #(cid:21) (cid:2)(cid:4)(cid:7)(cid:22)(cid:7)(cid:3)(cid:19)(cid:16)$ (cid:8)(cid:7)(cid:5)(cid:14) (cid:11) $ (cid:17)(cid:17)(cid:5)(cid:4)(cid:6)(cid:7)(cid:19)(cid:16) (cid:31)(cid:3)(cid:26) (cid:7)(cid:6)(cid:5): (cid:19)(cid:6)(cid:20)(cid:7)(cid:3)(cid:22),(cid:7)(cid:14) &(cid:5) (cid:7)(cid:3)(cid:6)(cid:16)(cid:15)(cid:18)(cid:5)(cid:18)
-(cid:1) %(cid:5) (cid:30)(cid:5)(cid:7)(cid:22)(cid:23) (cid:11) (cid:4) (cid:18)(cid:15)(cid:6) (cid:7)(cid:3) >(cid:22)(cid:14) ;(cid:5)(cid:19)(cid:6)(cid:23)(cid:16)(cid:7)(cid:3)(cid:5)(cid:31) (cid:5)(cid:17)< (cid:19)(cid:16) (cid:3)(cid:22) (cid:21)(cid:7) (cid:23) (cid:23)(cid:5) (cid:14)(cid:23)(cid:7)(cid:8)(cid:8)(cid:7)(cid:3)(cid:22)(cid:18) (cid:6)(cid:15)(cid:17)(cid:5)(cid:3)(cid:14) ;+ (cid:19)(cid:17)(cid:8)(cid:5)(cid:18) 9 +(cid:7)(cid:22)(cid:3)(cid:5)(cid:18)<(cid:29)
-. (cid:4) (cid:19)(cid:3)(cid:25) $(cid:16)(cid:19)(cid:4)(cid:7)(cid:11)(cid:7)(cid:6)(cid:19) (cid:7) (cid:3)(cid:14) >(cid:7)(cid:3)(cid:18)(cid:16)(cid:25)(cid:6)(cid:23)(cid:5)(cid:6)(cid:20) (cid:21)(cid:7) (cid:23) , (cid:22)(cid:7)(cid:14) (cid:7)(cid:6)(cid:14) )(cid:5)(cid:8)(cid:19)(cid:4)(cid:17)(cid:5)(cid:3) (cid:11) (cid:4) (cid:4)(cid:5)(cid:26)(cid:7)(cid:5)(cid:21) (cid:11) +(cid:23)(cid:7)(cid:8)(cid:8)(cid:7)(cid:3)(cid:22)) (cid:6)(cid:15)(cid:17)(cid:5)(cid:3) (cid:14)(cid:29)
-6(cid:17) (cid:15) (cid:20) (cid:1)(cid:5) (cid:3) (cid:1)(cid:11)(cid:22)(cid:14)(cid:2)(cid:4)(cid:1)(cid:2)(cid:3)(cid:4)(cid:5)(cid:6)(cid:7)(cid:4)(cid:1)(cid:8)(cid:2)
-(cid:4)(cid:5) -(cid:16)(cid:5)(cid:4) 9 (cid:14)(cid:23)(cid:7)(cid:8)(cid:8)(cid:7)(cid:3)(cid:22)(cid:18) (cid:6)(cid:15)(cid:17)(cid:5)(cid:3)(cid:14) &(cid:5) (cid:14)(cid:5)(cid:3) (cid:3) (cid:15)5)*(cid:14)(cid:20)(cid:22) (cid:5)(cid:17)(cid:20)(cid:8)(cid:21)(cid:1)(cid:3)(cid:4)(cid:1)(cid:7)(cid:3)"#$%(cid:17)(cid:26)$&(cid:11) (cid:4) (cid:19)(cid:8)(cid:8)(cid:4) (cid:26)(cid:19)(cid:16) &(cid:5)(cid:11) (cid:4)(cid:5) (cid:14)(cid:23)(cid:7)(cid:8)(cid:17)(cid:5)(cid:3) & (cid:19)(cid:7)(cid:3)(cid:22)(cid:4)(cid:5)(cid:5)(cid:3)(cid:16)(cid:7)(cid:22)(cid:23) (cid:11)(cid:4) (cid:17) (cid:15)(cid:4) (cid:16) (cid:22)(cid:7)(cid:14) (cid:7)(cid:6)(cid:14) (cid:5)(cid:19)(cid:17)(cid:29)
-(cid:1)(cid:2)(cid:3)(cid:4)(cid:1)(cid:2)(cid:5)(cid:6)(cid:6) (cid:8) (cid:6)NOV ProductsMiddle East-Fze
+(cid:1)(cid:2)(cid:3)(cid:4)(cid:5)(cid:6)(cid:7)(cid:4)(cid:1)(cid:8)(cid:2)(cid:3) (cid:8)(cid:5) (cid:11)(cid:6)(cid:5)(cid:7) (cid:3)(cid:14) (cid:8)(cid:5)(cid:15)(cid:14)(cid:5)
+(cid:11)(cid:6)(cid:5)(cid:7) (cid:3)(cid:14)(cid:8)(cid:5)(cid:15)(cid:14)(cid:5) (cid:7)(cid:16)(cid:2)(cid:8)(cid:17)(cid:18)(cid:14)(cid:15)(cid:19)(cid:14)(cid:20)(cid:14)(cid:2)(cid:4)(cid:3)
+(cid:1) (cid:1)(cid:2)(cid:4)(cid:5)(cid:6)(cid:5)(cid:7)(cid:8) (cid:11) (cid:5) (cid:1)(cid:14) (cid:15)(cid:16)(cid:8)(cid:8)(cid:17)(cid:7)(cid:5)(cid:4)(cid:15)(cid:18)(cid:16)(cid:15) (cid:15)(cid:5)(cid:2)(cid:19)(cid:20)(cid:2)(cid:20)(cid:6)(cid:21)(cid:2) (cid:22)(cid:17)(cid:5)(cid:19)(cid:23)(cid:5)(cid:18)(cid:5)(cid:2) (cid:11) (cid:5) (cid:1) (cid:5)(cid:24)(cid:16)(cid:25)(cid:5)(cid:4)(cid:26)(cid:8)(cid:16)(cid:4)(cid:6) (cid:20)(cid:15)(cid:5)(cid:19)(cid:16)(cid:27)(cid:20)(cid:7)(cid:28)(cid:2) (cid:29)(cid:30)(cid:6) (cid:18) (cid:22)(cid:7) (cid:6) (cid:2)(cid:11)(cid:7)(cid:4)(cid:18)(cid:5)(cid:19)(cid:19)(cid:5)(cid:17)(cid:7)(cid:29)(cid:5)(cid:4)(cid:25)(cid:19)(cid:20) (cid:5)(cid:20)(cid:2)(cid:19)(cid:8)(cid:4)(cid:7)(cid:6)(cid:5)(cid:22)(cid:7) (cid:7)(cid:2) (cid:31) (cid:16)(cid:4)(cid:15)(cid:11)(cid:4) (cid:18)
+(cid:5)(cid:4)(cid:5)(cid:6)(cid:5)(cid:7)(cid:8) (cid:11) (cid:1)(cid:30)
+(cid:20) (cid:7) (cid:1)(cid:2)(cid:1)(cid:2)(cid:19)(cid:21) (cid:22)(cid:5)(cid:1)(cid:7) (cid:4)(cid:1)(cid:8)(cid:2)(cid:21)(cid:7)(cid:8) (cid:4)(cid:1)(cid:2)(cid:19)(cid:3)(cid:6)(cid:11)(cid:11)(cid:18)(cid:1)(cid:14)(cid:5)(cid:3)
+(cid:1) ! (cid:4) "(cid:4)(cid:20)(cid:6)(cid:5)(cid:20)(cid:27)(cid:7)(cid:17)(cid:7)(cid:25) #(cid:16)(cid:18)(cid:27)(cid:5)(cid:4)(cid:15)(cid:14)(cid:8)(cid:17)(cid:15)(cid:16)(cid:8)(cid:17) (cid:20)(cid:19)$"%(cid:15)(cid:29)(cid:7)(cid:20)"#&(cid:8)(cid:8)(cid:30)! (cid:4)(cid:20)(cid:2)(cid:25)(cid:20)(cid:15)(cid:15)(cid:7)(cid:15) (cid:20)(cid:2)(cid:6)(cid:5)(cid:25) (cid:16)(cid:18)(cid:20)(cid:25)(cid:6) (cid:2) (cid:20)(cid:6) '()&*+),&%(cid:5)(cid:4)(cid:15)(cid:28)(cid:2) (cid:29)(cid:30)(cid:6) (cid:18)
+(cid:7)(cid:14)(cid:5)(cid:4)(cid:1) (cid:1)(cid:7) (cid:4)(cid:1)(cid:8)(cid:2)(cid:5)(cid:14)(cid:23)(cid:6)(cid:1)(cid:5)(cid:14)(cid:20)(cid:14)(cid:2)(cid:4)(cid:24)
+&(cid:17)(cid:17)(cid:6)(cid:5)(cid:4) (cid:7)(cid:11)(cid:7)(cid:6)(cid:20)(cid:7) (cid:2)(cid:15)(cid:18)(cid:16)(cid:15) (cid:27)(cid:5)(cid:5)(cid:18)(cid:20)(cid:7)(cid:17)(cid:5)(cid:19) ++)&*+)((cid:16)(cid:8)(cid:8)(cid:17)(cid:7)(cid:5)(cid:4)$"*(cid:28)(cid:2) (cid:29)(cid:30)(cid:6) (cid:18)(cid:8)(cid:4)(cid:7) (cid:4) (cid:19)(cid:5)(cid:17)(cid:7)(cid:29)(cid:5)(cid:4)(cid:25)(cid:30) (cid:17)(cid:5)(cid:20)(cid:15)(cid:5)(cid:15)(cid:5)(cid:2)(cid:19)(cid:20) (cid:15)(cid:5)(cid:8)(cid:20)(cid:4)(cid:20) (cid:5)(cid:5)(cid:18)(cid:20)(cid:7)(cid:17)(cid:11) (cid:4)(cid:5)(cid:20)(cid:6) (cid:1)(cid:2)(cid:16)(cid:18)(cid:27)(cid:5)(cid:4)(cid:20)(cid:2)(cid:19)(cid:7)(cid:2)(cid:6)(cid:17)(cid:16)(cid:19)(cid:5) (cid:5) (cid:20)(cid:27)(cid:17)(cid:5)(cid:7)(cid:2) (cid:5)(cid:11) (cid:4)(cid:18)(cid:20) (cid:8)(cid:4) (cid:29)(cid:7)(cid:19)(cid:5)(cid:19)(cid:27)(cid:5)(cid:17) (cid:22)(cid:30)
+- (cid:5)(cid:2)(cid:11)(cid:7)(cid:17)(cid:17)(cid:7)(cid:2)(cid:23) (cid:16) (cid:5).#(cid:1)/ (cid:1).(cid:15)(cid:5)(cid:6) (cid:7) (cid:2)(cid:14)(cid:5)(cid:2)(cid:15)(cid:16)(cid:4)(cid:5)(cid:7) (cid:6) (cid:2) (cid:20)(cid:7)(cid:2)(cid:15) (cid:2)(cid:17)(cid:25) (cid:5)(cid:5)0(cid:20)(cid:6) (cid:1)(cid:2)(cid:16)(cid:18)(cid:27)(cid:5)(cid:4)(cid:14)(cid:22)(cid:7) (cid:2) (cid:20)(cid:19)(cid:19)(cid:7) (cid:7) (cid:2)(cid:20)(cid:17)(cid:2) (cid:20) (cid:7) (cid:2)(cid:15) (cid:4)(cid:6) (cid:18)(cid:18)(cid:5)(cid:2) (cid:15)(cid:30)
+(cid:3)(cid:25)(cid:26)(cid:26)(cid:27)(cid:28)(cid:29)(cid:30)(cid:2)(cid:31) (cid:29)(cid:24)
+(cid:2)(cid:8)!(cid:11)(cid:8)(cid:24)
+(cid:2)(cid:8)!(cid:11)(cid:31)(cid:30)"(cid:2)#$%&'(cid:7)#(cid:25)("(cid:30))#*(cid:8)(cid:30)(cid:28)+(cid:28)($%&(cid:24)
+(cid:7)(cid:29)(cid:30)"(cid:2)#(cid:24)$(cid:28)*(cid:31)(cid:26)(cid:26)(cid:27)(cid:28),(cid:31)-(cid:27)(cid:29)&
+!(cid:20)(cid:7)(cid:17)(cid:16)(cid:4)(cid:5) (cid:15)(cid:16)(cid:8)(cid:8)(cid:17)(cid:25)(cid:22)(cid:7)(cid:17)(cid:17)(cid:4)(cid:5)(cid:15)(cid:16)(cid:17) (cid:7)(cid:2) (cid:4)(cid:19)(cid:5)(cid:4)(cid:27)(cid:5)(cid:7)(cid:2)(cid:23)(cid:8)(cid:17)(cid:20)(cid:6)(cid:5)(cid:19)(cid:7)(cid:2)1(cid:16)(cid:20)(cid:4)(cid:20)(cid:2)(cid:7)(cid:2)(cid:5)(cid:20)(cid:2)(cid:19)(cid:8)(cid:20)(cid:25)(cid:18)(cid:5)(cid:2) (cid:19)(cid:5)(cid:17)(cid:20)(cid:25)(cid:5)(cid:19)(cid:16)(cid:2) (cid:7)(cid:17) (cid:5)(cid:20)(cid:27) (cid:29)(cid:5)(cid:7)(cid:15)(cid:4)(cid:5)(cid:6)(cid:5)(cid:7)(cid:29)(cid:5)(cid:19)
+(cid:7)(cid:8)(cid:2)(cid:3)(cid:1)(cid:19)(cid:2)(cid:14)(cid:14) (cid:15)(cid:15)(cid:5)(cid:14)(cid:3)(cid:3)(cid:1)(cid:2)(cid:3) (cid:1)(cid:11)(cid:11)(cid:1)(cid:2)(cid:19)(cid:15)(cid:8)(cid:7)(cid:3) (cid:2)(cid:15)(cid:15)(cid:14)(cid:18)(cid:1)!(cid:14)(cid:5). (cid:15)(cid:15)(cid:5)(cid:14)(cid:3)(cid:3) (cid:3)(cid:22)(cid:14)(cid:18)(cid:8)(cid:17)(cid:24)/
+(cid:1) #(cid:1)/ *(cid:1)23%"($'224++&(")!5+(cid:14) (cid:1)(cid:24)(cid:1)6789:;(cid:14) 4(cid:1)"$(cid:1);< ;=+(cid:24)+4&4'!*++ 5(cid:1)#+(cid:14)23(cid:24)&'(cid:14)3#'"+2&*&(cid:24)+$'*&"+(
+(cid:11) .(cid:20)(cid:14)(cid:2)(cid:4)(cid:1)(cid:2)!(cid:8)(cid:1)(cid:7)(cid:14) (cid:15)(cid:15)(cid:5)(cid:14)(cid:3)(cid:3) (cid:3) (cid:22)(cid:14)(cid:18)(cid:8)(cid:17)(cid:24)/
+(cid:1) #(cid:1)/ (cid:4) (cid:19)(cid:16)(cid:6) (cid:15)$(cid:7)(cid:19)(cid:19)(cid:17)(cid:5)+(cid:20)(cid:15) >!5+(cid:14) (cid:30)(cid:1)(cid:30)(cid:24) 0789:;(cid:14) 4(cid:1)"$(cid:1);< ;(cid:14)=(cid:5)(cid:27)(cid:5)(cid:17)&(cid:17)(cid:7)!(cid:4)(cid:5)(cid:5)5 (cid:2)(cid:5)(cid:14)2(cid:16)(cid:27)(cid:20)(cid:7)(cid:14)3(cid:2)(cid:7) (cid:5)(cid:19)&(cid:4)(cid:20)(cid:27)+(cid:18)(cid:7)(cid:4)(cid:20) (cid:5)(cid:15)(cid:14)"*#?8;;@@::9 7;;;;<
+(cid:3) (cid:1)(cid:11)(cid:11)(cid:1)(cid:2)(cid:19)(cid:1)(cid:2)(cid:3)(cid:4)(cid:5)(cid:6)(cid:7)(cid:4)(cid:1)(cid:8)(cid:2)(cid:3)
+2(cid:4)(cid:20)(cid:11) % (cid:18)(cid:18)(cid:5)(cid:4)(cid:6)(cid:7)(cid:20)(cid:17)'(cid:2)(cid:29) (cid:7)(cid:6)(cid:5)A (cid:20)(cid:6)(cid:21)(cid:7)(cid:2)(cid:23)4(cid:7)(cid:15) (cid:7)(cid:2)(cid:6)(cid:17)(cid:16)(cid:19)(cid:7)(cid:2)(cid:23) (cid:5)(cid:27)(cid:5)(cid:17) (cid:22) (cid:27)(cid:5)(cid:15)(cid:5)(cid:2) (cid:6) (cid:2)(cid:6)(cid:5)(cid:4)(cid:2)(cid:5)(cid:19)(cid:24)(cid:16)(cid:25)(cid:5)(cid:4)(cid:14)+0(cid:8)(cid:5)(cid:19)(cid:7) (cid:4)(cid:20)(cid:2)(cid:19)26(cid:24))+4$&*(cid:30)4(cid:1)B'("'%((cid:28)(cid:2)(cid:29)(cid:30)(cid:6) (cid:18)
+(cid:1) (cid:1)(cid:2)(cid:16)(cid:18)(cid:27)(cid:5)(cid:4) (cid:27)(cid:5)(cid:18)(cid:5)(cid:2) (cid:7) (cid:2)(cid:5)(cid:19)(cid:20)(cid:15)(cid:4)(cid:5)(cid:11)(cid:30) (cid:2)&-(cid:24)A(cid:24)4
+(cid:1) " (cid:20)(cid:17)B(cid:4) (cid:15)(cid:15)(cid:22)(cid:5)(cid:7)(cid:23) (cid:26)2(cid:7)(cid:18)(cid:5)(cid:2)(cid:15)(cid:7) (cid:2)(cid:15)C(cid:24) 0(cid:5)(cid:15)A (cid:20)(cid:6)(cid:21)(cid:20)(cid:23)(cid:5)(cid:15)D
+(cid:1) (cid:1)(cid:16)(cid:4) (cid:4) (cid:19)(cid:16)(cid:6) (cid:20)(cid:4) (cid:2)(cid:16)(cid:18)(cid:27)(cid:5)(cid:4)(cid:14)%(cid:16)(cid:15) (cid:18)(cid:15)E(% (cid:19)(cid:5)(cid:14)((cid:16)(cid:18)(cid:18)(cid:20)(cid:4)(cid:25)(cid:15) (cid:5)(cid:5) (cid:11)E((cid:6) (cid:19)(cid:5)(cid:14)#(cid:5) B(cid:4) (cid:15)(cid:15)(cid:22)(cid:5)(cid:7)(cid:23) (cid:26)(cid:29)(cid:20)(cid:17)(cid:16)(cid:5)(cid:14)% (cid:16)(cid:2) (cid:4)(cid:25) (cid:11)(cid:1)(cid:4)(cid:7)(cid:23)(cid:7)(cid:2)C(cid:11) (cid:4)(cid:5)(cid:20)(cid:6) (cid:17)(cid:7)(cid:2)(cid:5)(cid:7) (cid:5)(cid:18)D
+(cid:1) "(cid:22) (cid:4)(cid:7)(cid:23)(cid:7)(cid:2)(cid:20)(cid:17)(cid:6) (cid:8)(cid:7)(cid:5)(cid:15) (cid:11) % (cid:18)(cid:18)(cid:5)(cid:4)(cid:6)(cid:7)(cid:20)(cid:17)'(cid:2)(cid:29) (cid:7)(cid:6)(cid:5) (cid:20)(cid:6)(cid:21)(cid:7)(cid:2)(cid:23)4(cid:7)(cid:15) (cid:27)(cid:5)(cid:7)(cid:2)(cid:6)(cid:17)(cid:16)(cid:19)(cid:5)(cid:19)(cid:20)(cid:17) (cid:2)(cid:23)(cid:22)(cid:7) (cid:5)(cid:15) (cid:7)(cid:8)(cid:8)(cid:7)(cid:2)(cid:23)(cid:19) (cid:6)(cid:16)(cid:18)(cid:5)(cid:2)(cid:15) C( (cid:20)(cid:18)(cid:8)(cid:5)(cid:19)(cid:26)(cid:15)(cid:7)(cid:23)(cid:2)(cid:5)(cid:19)D
+! (cid:4) (cid:20)(cid:2)(cid:25)(cid:6)(cid:17)(cid:20)(cid:4)(cid:7)(cid:11)(cid:7)(cid:6)(cid:20)(cid:7) (cid:2) (cid:4) (cid:4)(cid:5)(cid:29)(cid:7)(cid:5)(cid:22) (cid:5) (cid:15) (cid:7)(cid:8)(cid:8)(cid:7)(cid:2)(cid:23)(cid:19) (cid:6)(cid:16)(cid:18)(cid:5)(cid:2) (cid:15)(cid:21)(cid:7)(cid:2)(cid:19)(cid:17)(cid:25)(cid:23)(cid:5) (cid:7)(cid:2) (cid:16)(cid:6) (cid:22)(cid:7) (cid:5)4 (cid:23)(cid:7)(cid:15) (cid:7)(cid:6)(cid:15)2(cid:5)(cid:8)(cid:20)(cid:4) (cid:18)(cid:5)(cid:2) (cid:30)
+(cid:15) (cid:18)' (cid:1)(cid:5)(cid:3) (cid:1)(cid:11)(cid:20)(cid:14)(cid:2)(cid:4)(cid:1)(cid:2)(cid:3)(cid:4)(cid:5)(cid:6)(cid:7)(cid:4)(cid:1)(cid:8)(cid:2)
+(cid:1) (cid:4)(cid:5))&(cid:17)(cid:5)(cid:4) (cid:15) (cid:7)(cid:8)(cid:8)(cid:7)(cid:2)(cid:23)(cid:19) (cid:6)(cid:16)(cid:18)(cid:5)(cid:2) (cid:15) (cid:27)(cid:5)(cid:15)(cid:5)(cid:2) (cid:24)(cid:16)(cid:25)(cid:5)(cid:4)(cid:14)+0(cid:8)(cid:5)(cid:19)(cid:7) (cid:4)(cid:20)(cid:2)(cid:19)26(cid:24))+4$&*(cid:30)4(cid:1)B'("'%((cid:28)(cid:2)(cid:29)(cid:30)(cid:6) (cid:18) (cid:27) (cid:20)(cid:7)(cid:2)(cid:20)(cid:8)(cid:8)(cid:4) (cid:29)(cid:20)(cid:17)(cid:30)NOV ProductsMiddle East-Fze
 Dubai P.O.BOX NO :61490 JEBEL ALI
 DUBAI United Arab Emirates
 Zone: Jebel Ali Free Zone.
 Tel: +971 4 8100 100 / +971 4 8048 900
 Email: purchasedubai@nov.com Web: www.nov.com/Elmar
 MEA 1105108 Hyperion: 1122 
-ORDER NUMBER : 014166
-TO: DATE : 09/05/24
+ORDER NUMBER : 023421
+TO: DATE : 24/06/25
 JacksonInternational ACCOUNT No. : J037C
 3620 Long Beach Blvd. Suite C5 
 PURCHASE ORDER 
-REFERENCE : ROR 18-2/TT
+REFERENCE : C0004/C0009/ROR25/TT
 Long Beach, CA 90807 BUYER : thajudtj
 +886918889228 APPROVER : thajudtj
 john.shaw@jackson-international. 
-QA Date
-Product No./Service Quantity Units Description Requirement Required Nett Price Value
-Attn: Mr. Stephen Lee
-Quote Ref: As per previousquote
-FLD.44456 3.00 EACH UPPER STEAM 1.0 X 8.81 MHA 04/07/24 28.90 86.70
-PART NO. REV: D.44456/E
-DRAWING REF: 44456-D
+Line Date
+Product No./Service Quantity Units Description Number Required Nett Price Value
+ATTN: MR. STEPHEN LEE
+---------------------------------------
+QUOTE REF: EMAIL DTD 25 MAR 2025
+---------------------------------------
+FL70U14432 1.00 EACH STEM MAN OPERATOR 1 13 19/08/25 70.00 70.00
+PART NO. REV: 70U14432/B
+DRAWING REF: 70U14432-A
+MATERIAL SPEC: EMS-MA-73-3/H
+COATING SPEC: EWI-C-10-1/H
+REF: EWI-MM-51-4/M
+FL70U14433 1.00 EACH BODY MANUAL OVERRIDE 2.000-8 UN- 19/08/25 83.00 83.00
+PART NO. REV: 70U14433/B
+DRAWING REF: 70U14433-B
+MATERIAL SPEC: EMS-MA-10/E
+COATING SPEC: EWI-C-10-1/H
+COATING SPEC: EWI-C-115-7/D
+REF: EWI-MM-51-1/M 
+TOTAL Continued
+Page 1 of 17NOV ProductsMiddle East-Fze
+Dubai P.O.BOX NO :61490 JEBEL ALI
+DUBAI United Arab Emirates
+Zone: Jebel Ali Free Zone.
+Tel: +971 4 8100 100 / +971 4 8048 900
+Email: purchasedubai@nov.com Web: www.nov.com/Elmar
+MEA 1105108 Hyperion: 1122 
+ORDER NUMBER : 023421
+TO: DATE : 24/06/25
+JacksonInternational ACCOUNT No. : J037C
+3620 Long Beach Blvd. Suite C5 
+PURCHASE ORDER 
+REFERENCE : C0004/C0009/ROR25/TT
+Long Beach, CA 90807 BUYER : thajudtj
++886918889228 APPROVER : thajudtj
+john.shaw@jackson-international. 
+Line Date
+Product No./Service Quantity Units Description Number Required Nett Price Value
+---------------------------------------
+QUOTE REF: AS PER PREVIOUS PO PRICE
+---------------------------------------
+FL18943902-001 6.00 EACH BONNET ADAPTER 2" AUD 12D AXELSON PAF DD18943902-000-01.0319/08/25 346.00 2076.00
+PART NO. REV: 18943902-001/01.02
+DRAWING REF: 18943902-000-01.03
+MATERIAL SPEC: EMS-MA-18-9/N
+COATING SPEC: EWI-C-106-6/R
+REF: EWI-MM-51-1/M
+FL18945689-001 2.00 EACH SPACER 3" AUD 12D AXIELSON PAF DD18945689-001-01.01 19/08/25 83.00 166.00
+PART NO. REV: 18945689-001/01.01
+DRAWING REF: 18945689-001-01.01
 MATERIAL SPEC: EMS-MA-73-3/H
 REF: EWI-MM-51-5/M
-FLD.44481 2.00 EACH BONNET ADAPTER 3.06/3.12/4.06VLV 04/07/24 125.40 250.80
-PART NO. REV:D.44481/G
-DRAWING REF: D44481-C
-DRAWING REF: D44255-C
-MATERIAL SPEC: EMS-MA-32-8/C
-COATING SPEC: EWI-C-43-4/W
-REF: EWI-MM-51-1/M
-FLD.45160 2.00 EACH 18D SPRING BOLT 04/07/24 60.00 120.00
-PART NO. REV: D.45160/D 
+FL18945702-001 2.00 EACH SPRING BOLT 3" AUD 12D AXELSON PAF DD18945702-001-01.01 19/08/25 90.00 180.00
 TOTAL Continued
-Page 1 of 7
-Note: For QC & Purchasingguidelinespleasereferto AME QCPURCHlatestissue.Copyavailableon requestNOV ProductsMiddle East-Fze
+Page 2 of 17NOV ProductsMiddle East-Fze
 Dubai P.O.BOX NO :61490 JEBEL ALI
 DUBAI United Arab Emirates
 Zone: Jebel Ali Free Zone.
 Tel: +971 4 8100 100 / +971 4 8048 900
 Email: purchasedubai@nov.com Web: www.nov.com/Elmar
 MEA 1105108 Hyperion: 1122 
-ORDER NUMBER : 014166
-TO: DATE : 09/05/24
+ORDER NUMBER : 023421
+TO: DATE : 24/06/25
 JacksonInternational ACCOUNT No. : J037C
 3620 Long Beach Blvd. Suite C5 
 PURCHASE ORDER 
-REFERENCE : ROR 18-2/TT
+REFERENCE : C0004/C0009/ROR25/TT
 Long Beach, CA 90807 BUYER : thajudtj
 +886918889228 APPROVER : thajudtj
 john.shaw@jackson-international. 
-QA Date
-Product No./Service Quantity Units Description Requirement Required Nett Price Value
-DRAWING REF: D45160-B
-MATERIAL SPEC: EMS-MA-19-13/F
-MATERIAL SPEC: EMS-MA-19-15/F
+Line Date
+Product No./Service Quantity Units Description Number Required Nett Price Value
+PART NO. REV: 18945702-001/01.01
+DRAWING REF: 18945702-001-01.01
+MATERIAL SPEC: EMS-MA-19-12/F
 COATING SPEC: EWI-C-10-1/H
+REF: EWI-MM-51-1/M
+FL70U10087 1.00 EACH PACKING RET F/ 6 VLC & AU ACT 19/08/25 102.00 102.00
+PART NO. REV: 70U10087/E
+DRAWING REF: 70U10087-A
+MATERIAL SPEC: EMS-MA-2-7/K
+COATING SPEC: EWI-C-10-1/H
+REF: EWI-MM-51-1/M
+FL70U12745 1.00 EACH LOWER STEM 2 1/16 3M-5M AXELSON 19/08/25 138.00 138.00
+H2S-.5 U PSL2
+PART NO. REV: 70U12745/B2
+DRAWING REF: 70U12745-B1
+MATERIAL SPEC: EMS-MA-73-3/H
+REF: EWI-I-112-4/K 
+TOTAL Continued
+Page 3 of 17NOV ProductsMiddle East-Fze
+Dubai P.O.BOX NO :61490 JEBEL ALI
+DUBAI United Arab Emirates
+Zone: Jebel Ali Free Zone.
+Tel: +971 4 8100 100 / +971 4 8048 900
+Email: purchasedubai@nov.com Web: www.nov.com/Elmar
+MEA 1105108 Hyperion: 1122 
+ORDER NUMBER : 023421
+TO: DATE : 24/06/25
+JacksonInternational ACCOUNT No. : J037C
+3620 Long Beach Blvd. Suite C5 
+PURCHASE ORDER 
+REFERENCE : C0004/C0009/ROR25/TT
+Long Beach, CA 90807 BUYER : thajudtj
++886918889228 APPROVER : thajudtj
+john.shaw@jackson-international. 
+Line Date
+Product No./Service Quantity Units Description Number Required Nett Price Value
+REF: EWI-I-123-6/H
+REF: EWI-I-125/J
+REF: EWI-I-45-51/C
+REF: EWI-I-72/N
+REF: EWI-MM-51-1/M
+FL70U13849 1.00 EACH BNT 6 900 WKM C6B SAFE-T-SEALSTDALY AU 19/08/25 980.00 980.00
+PART NO. REV: 70U13849/B1
+DRAWING REF: 70U13849-B
+MATERIAL SPEC: EMS-MA-147-2/D
+MATERIAL SPEC: EMS-MA-147-3/D
+COATING SPEC: EWI-C-43-4/W
+REF: EWI-MM-51-1/M
+REF: EWI-MM-65/B
+FL70U13891 1.00 EACH LOWER STEM 6 600-900 WKM C6B H2S.5 U AU 19/08/25 460.00 460.00
+PART NO. REV: 70U13891/A1
+DRAWING REF: 70U13891-A
+MATERIAL SPEC: EMS-MA-73-3/H
+COATING SPEC: EWI-C-10-1/H 
+TOTAL Continued
+Page 4 of 17NOV ProductsMiddle East-Fze
+Dubai P.O.BOX NO :61490 JEBEL ALI
+DUBAI United Arab Emirates
+Zone: Jebel Ali Free Zone.
+Tel: +971 4 8100 100 / +971 4 8048 900
+Email: purchasedubai@nov.com Web: www.nov.com/Elmar
+MEA 1105108 Hyperion: 1122 
+ORDER NUMBER : 023421
+TO: DATE : 24/06/25
+JacksonInternational ACCOUNT No. : J037C
+3620 Long Beach Blvd. Suite C5 
+PURCHASE ORDER 
+REFERENCE : C0004/C0009/ROR25/TT
+Long Beach, CA 90807 BUYER : thajudtj
++886918889228 APPROVER : thajudtj
+john.shaw@jackson-international. 
+Line Date
+Product No./Service Quantity Units Description Number Required Nett Price Value
 REF: EWI-MM-51-5/M
-FLD.96265-004 2.00 EACH BNT 3 1/8 5M VG300-FG EE PSL2U 04/07/24 345.00 690.00
-PART NO. REV: D.96265-004/A
-DRAWING REF: D96265-004-B
+FL70U14056 1.00 EACH BNT 3 1/8 5M I-C 405RS EE PSL2U AU 19/08/25 172.00 172.00
+PART NO. REV: 70U14056/C
+DRAWING REF: 70U14056-C
 MATERIAL SPEC: EMS-MA-21-3/I
-COATING SPEC: EWI-C-10-2/H
-REF: EWI-H-121-13/E
+COATING SPEC: EWI-C-43-4/W
 REF: EWI-I-112-4/K
 REF: EWI-I-123-6/H
 REF: EWI-I-125/J
 REF: EWI-I-45-17/C
 REF: EWI-I-72/N
 REF: EWI-MM-51-1/M
-FLD.96265-103 2.00 EACH SEMI-SHFT/STEM FOR 12D ON 3 5MVG300 04/07/24 65.00 130.00
-PART NO. REV: D.96265-103/A
-DRAWING REF: DD96265-103-A 
+FLD.46235-001 2.00 EACH SEAT ASSY 2 1/16 5M AX FF.5 PSL2 U 19/08/25 115.00 230.00
+PART NO. REV: D.46235-001/D1
+DRAWING REF: 602805-B1
+DRAWING REF: 47712-F
+MATERIAL SPEC: EMS-MA-19-16/F
+MATERIAL SPEC: EMS-S-6-2/M 
 TOTAL Continued
-Page 2 of 7
-Note: For QC & Purchasingguidelinespleasereferto AME QCPURCHlatestissue.Copyavailableon requestNOV ProductsMiddle East-Fze
+Page 5 of 17NOV ProductsMiddle East-Fze
 Dubai P.O.BOX NO :61490 JEBEL ALI
 DUBAI United Arab Emirates
 Zone: Jebel Ali Free Zone.
 Tel: +971 4 8100 100 / +971 4 8048 900
 Email: purchasedubai@nov.com Web: www.nov.com/Elmar
 MEA 1105108 Hyperion: 1122 
-ORDER NUMBER : 014166
-TO: DATE : 09/05/24
+ORDER NUMBER : 023421
+TO: DATE : 24/06/25
 JacksonInternational ACCOUNT No. : J037C
 3620 Long Beach Blvd. Suite C5 
 PURCHASE ORDER 
-REFERENCE : ROR 18-2/TT
+REFERENCE : C0004/C0009/ROR25/TT
 Long Beach, CA 90807 BUYER : thajudtj
 +886918889228 APPROVER : thajudtj
 john.shaw@jackson-international. 
-QA Date
-Product No./Service Quantity Units Description Requirement Required Nett Price Value
+Line Date
+Product No./Service Quantity Units Description Number Required Nett Price Value
+COATING SPEC: EWI-C-113-1/J
+COATING SPEC: EWI-C-113-6/J
+REF: EWI-I-30/N
+REF: EWI-MM-40/D
+REF: EWI-MM-51-4/M
+REF: EWI-MM-51-5/M
+REF: EWI-MP-213/C
+FL18493644-001 2.00 EACH UPPER STEM 1.250 X 3/4-8 ACME CWC DD18493644-001-02.01 19/08/25 262.00 524.00
+PART NO. REV: 18493644-001/01.01
+DRAWING REF: 18493644-001-02.01
+MATERIAL SPEC: EMS-MA-73-2/H
 MATERIAL SPEC: EMS-MA-73-3/H
+COATING SPEC: EWI-C-10-1/H
+REF: EWI-MM-51-1/M
+FL18493726-001 2.00 EACH STEM ADAPTER 5 1/8 & 7 1/16 10M AM10-20 DD18493726-001-01.01 19/08/25 99.00 198.00
+PART NO. REV: 18493726-001/01.01
+DRAWING REF: 18493726-001-01.01
+MATERIAL SPEC: EMS-MA-73-3/H 
+TOTAL Continued
+Page 6 of 17NOV ProductsMiddle East-Fze
+Dubai P.O.BOX NO :61490 JEBEL ALI
+DUBAI United Arab Emirates
+Zone: Jebel Ali Free Zone.
+Tel: +971 4 8100 100 / +971 4 8048 900
+Email: purchasedubai@nov.com Web: www.nov.com/Elmar
+MEA 1105108 Hyperion: 1122 
+ORDER NUMBER : 023421
+TO: DATE : 24/06/25
+JacksonInternational ACCOUNT No. : J037C
+3620 Long Beach Blvd. Suite C5 
+PURCHASE ORDER 
+REFERENCE : C0004/C0009/ROR25/TT
+Long Beach, CA 90807 BUYER : thajudtj
++886918889228 APPROVER : thajudtj
+john.shaw@jackson-international. 
+Line Date
+Product No./Service Quantity Units Description Number Required Nett Price Value
+COATING SPEC: EWI-C-10-1/H
+REF: EWI-MM-51-1/M
+FL18943905-001 4.00 EACH SPRING BOLT 2" AUD 12D AXELSON PAF DD18943905-000-02.01 19/08/25 83.00 332.00
+PART NO. REV: 18943905-001/03.01
+DRAWING REF: 18943905-000-02.01
+MATERIAL SPEC: EMS-MA-73-3/H
+COATING SPEC: EWI-C-10-1/H
+REF: EWI-MM-51-1/M
+FL18943907-001 4.00 EACH SPACER 2" AUD 12D AXIELSON PAF DD18943907-000-01.01 19/08/25 67.00 268.00
+PART NO. REV: 18943907-001/01.01
+DRAWING REF: 18943907-000-01.01
+MATERIAL SPEC: EMS-MA-73-3/H
+REF: EWI-MM-51-5/M
+FL70U12353 4.00 EACH FLANGE 6-8 UN X 10.78 RDL BOLT X12 1.8 19/08/25 447.00 1788.00
+PART NO. REV: 70U12353/B1
+DRAWING REF: 70U12353-A 
+TOTAL Continued
+Page 7 of 17NOV ProductsMiddle East-Fze
+Dubai P.O.BOX NO :61490 JEBEL ALI
+DUBAI United Arab Emirates
+Zone: Jebel Ali Free Zone.
+Tel: +971 4 8100 100 / +971 4 8048 900
+Email: purchasedubai@nov.com Web: www.nov.com/Elmar
+MEA 1105108 Hyperion: 1122 
+ORDER NUMBER : 023421
+TO: DATE : 24/06/25
+JacksonInternational ACCOUNT No. : J037C
+3620 Long Beach Blvd. Suite C5 
+PURCHASE ORDER 
+REFERENCE : C0004/C0009/ROR25/TT
+Long Beach, CA 90807 BUYER : thajudtj
++886918889228 APPROVER : thajudtj
+john.shaw@jackson-international. 
+Line Date
+Product No./Service Quantity Units Description Number Required Nett Price Value
+MATERIAL SPEC: EMS-MA-18-2/N
+MATERIAL SPEC: EMS-MA-18-4/N
+COATING SPEC: EWI-C-106-6/R
+REF: EWI-MM-51-1/M
+FL70U7365 2.00 EACH INSERT 1 1/4-12 X 3/4-8 AC X 1.60 19/08/25 22.50 45.00
+PART NO. REV: 70U7365/B
+DRAWING REF: 70U7365-A
+MATERIAL SPEC: EMS-MA-78-5/I
+REF: EWI-MM-51-4/M
+FLD.45160 1.00 EACH 18D SPRING BOLT 19/08/25 60.00 60.00
+PART NO. REV: D.45160/D
+DRAWING REF: 45160-B
+MATERIAL SPEC: EMS-MA-19-13/F
+MATERIAL SPEC: EMS-MA-19-15/F
+COATING SPEC: EWI-C-10-1/H
+REF: EWI-MM-51-5/M 
+TOTAL Continued
+Page 8 of 17NOV ProductsMiddle East-Fze
+Dubai P.O.BOX NO :61490 JEBEL ALI
+DUBAI United Arab Emirates
+Zone: Jebel Ali Free Zone.
+Tel: +971 4 8100 100 / +971 4 8048 900
+Email: purchasedubai@nov.com Web: www.nov.com/Elmar
+MEA 1105108 Hyperion: 1122 
+ORDER NUMBER : 023421
+TO: DATE : 24/06/25
+JacksonInternational ACCOUNT No. : J037C
+3620 Long Beach Blvd. Suite C5 
+PURCHASE ORDER 
+REFERENCE : C0004/C0009/ROR25/TT
+Long Beach, CA 90807 BUYER : thajudtj
++886918889228 APPROVER : thajudtj
+john.shaw@jackson-international. 
+Line Date
+Product No./Service Quantity Units Description Number Required Nett Price Value
+FLD.603506 1.00 EACH LOWER STEM - 3.25 DIA X 23.25 LONG, 6D DDD.603506-B 19/08/25 331.00 331.00
+PART NO. REV: D.603506/B1
+DRAWING REF: 603506-B
+MATERIAL SPEC: EMS-MA-73-3/H
+REF: EWI-I-123-6/H
+REF: EWI-I-125/J
+REF: EWI-MM-51-5/M
+---------------------------------------
+QUOTE REF: CALL OF PO C0004
+---------------------------------------
+FL70U12755 3.00 EACH FLANGE 6-8UN X 10.80 RAD BOLTAU 19/08/25 338.00 1014.00
+PART NO. REV: 70U12755/E
+DRAWING REF: 70U12755-D
+MATERIAL SPEC: EMS-MA-18-3/N
+MATERIAL SPEC: EMS-MA-18-4/N
+MATERIAL SPEC: EMS-MA-18-9/N
+COATING SPEC: EWI-C-106-6/R
+REF: EWI-MM-51-1/M 
+TOTAL Continued
+Page 9 of 17NOV ProductsMiddle East-Fze
+Dubai P.O.BOX NO :61490 JEBEL ALI
+DUBAI United Arab Emirates
+Zone: Jebel Ali Free Zone.
+Tel: +971 4 8100 100 / +971 4 8048 900
+Email: purchasedubai@nov.com Web: www.nov.com/Elmar
+MEA 1105108 Hyperion: 1122 
+ORDER NUMBER : 023421
+TO: DATE : 24/06/25
+JacksonInternational ACCOUNT No. : J037C
+3620 Long Beach Blvd. Suite C5 
+PURCHASE ORDER 
+REFERENCE : C0004/C0009/ROR25/TT
+Long Beach, CA 90807 BUYER : thajudtj
++886918889228 APPROVER : thajudtj
+john.shaw@jackson-international. 
+Line Date
+Product No./Service Quantity Units Description Number Required Nett Price Value
+FL70U12756 3.00 EACH SPRING PLATE F/ AU BNT ASSY 19/08/25 165.00 495.00
+PART NO. REV: 70U12756/D
+DRAWING REF: 70U12756-B
+MATERIAL SPEC: EMS-MA-18-2/N
+MATERIAL SPEC: EMS-MA-18-9/N
+COATING SPEC: EWI-C-106-6/R
+REF: EWI-MM-51-1/M
+FL70U12758 1.00 EACH SPRING BOLT 1-8ACME F/ 70AU BNT ASSYS 19/08/25 126.00 126.00
+PART NO. REV: 70U12758/D
+DRAWING REF: 70U12758-D
+MATERIAL SPEC: EMS-MA-73-3/H
+COATING SPEC: EWI-C-10-1/H
+REF: EWI-MM-51-5/M
+FL70U12762 3.00 EACH UPPER STEM 1.375 1 5/8-12UNAUH625 ACT 19/08/25 266.29 798.87
+PART NO. REV: 70U12762/D
+DRAWING REF: 70U12762-B
+MATERIAL SPEC: EMS-MA-73-3/H
+COATING SPEC: EWI-C-10-1/H 
+TOTAL Continued
+Page 10 of 17NOV ProductsMiddle East-Fze
+Dubai P.O.BOX NO :61490 JEBEL ALI
+DUBAI United Arab Emirates
+Zone: Jebel Ali Free Zone.
+Tel: +971 4 8100 100 / +971 4 8048 900
+Email: purchasedubai@nov.com Web: www.nov.com/Elmar
+MEA 1105108 Hyperion: 1122 
+ORDER NUMBER : 023421
+TO: DATE : 24/06/25
+JacksonInternational ACCOUNT No. : J037C
+3620 Long Beach Blvd. Suite C5 
+PURCHASE ORDER 
+REFERENCE : C0004/C0009/ROR25/TT
+Long Beach, CA 90807 BUYER : thajudtj
++886918889228 APPROVER : thajudtj
+john.shaw@jackson-international. 
+Line Date
+Product No./Service Quantity Units Description Number Required Nett Price Value
+REF: EWI-MM-51-1/M
+FL70U14260 1.00 EACH LOWER STEM 5 1/8 5M SOLAR ALERT SAE > 19/08/25 1909.00 1909.00
+H2S-NL PSL3 U
+PART NO. REV: 70U14260/A1
+DRAWING REF: 70U13952-B
+MATERIAL SPEC: EMS-MA-46-2/M
+COATING SPEC: EWI-C-10-1/H
 REF: EWI-I-112-4/K
 REF: EWI-I-123-6/H
 REF: EWI-I-125/J
+REF: EWI-I-28-16/F
+REF: EWI-I-30/N
 REF: EWI-I-45-51/C
-REF: EWI-I-72/N
+REF: EWI-I-85-8/O
 REF: EWI-MM-51-1/M
----------------------------------------
-Quote Ref: Z 014165 Dtd 05 May 2024
----------------------------------------
-FL70U2285 2.00 EACH STEM F/ MECH OPEN JACK 04/07/24 84.00 168.00
-PART NO. REV: 70U2285/C
-DRAWING REF: 70U2285-02
-MATERIAL SPEC: EMS-MA-73-3/H
-COATING SPEC: EWI-C-10/E
-REF: EWI-MM-26-2/E
-FL70U4376 2.00 EACH ADPTR F/ MECH OPN JACK 04/07/24 185.00 370.00
-PART NO. REV: 70U4376/A1
-DRAWING REF: 70U4376-01
-MATERIAL SPEC: EMS-MA-19-01/F 
+REF: EWI-MP-168/C
+FL70U4236 5.00 EACH THREAD INSERT 1 1/8-12 UNF 3/4-10UNC 19/08/25 22.00 110.00
 TOTAL Continued
-Page 3 of 7
-Note: For QC & Purchasingguidelinespleasereferto AME QCPURCHlatestissue.Copyavailableon requestNOV ProductsMiddle East-Fze
+Page 11 of 17NOV ProductsMiddle East-Fze
 Dubai P.O.BOX NO :61490 JEBEL ALI
 DUBAI United Arab Emirates
 Zone: Jebel Ali Free Zone.
 Tel: +971 4 8100 100 / +971 4 8048 900
 Email: purchasedubai@nov.com Web: www.nov.com/Elmar
 MEA 1105108 Hyperion: 1122 
-ORDER NUMBER : 014166
-TO: DATE : 09/05/24
+ORDER NUMBER : 023421
+TO: DATE : 24/06/25
 JacksonInternational ACCOUNT No. : J037C
 3620 Long Beach Blvd. Suite C5 
 PURCHASE ORDER 
-REFERENCE : ROR 18-2/TT
+REFERENCE : C0004/C0009/ROR25/TT
 Long Beach, CA 90807 BUYER : thajudtj
 +886918889228 APPROVER : thajudtj
 john.shaw@jackson-international. 
-QA Date
-Product No./Service Quantity Units Description Requirement Required Nett Price Value
-REF: EWI-MM-9/E
+Line Date
+Product No./Service Quantity Units Description Number Required Nett Price Value
+PART NO. REV: 70U4236/F
+DRAWING REF: 70U4236-B
+MATERIAL SPEC: EMS-MA-78-5/I
+REF: EWI-MM-51-4/M
+FL70U9559 20.00 EACH THREAD INSERT 1 1/2-12UNFX 1-8UNC X1.25 19/08/25 21.80 436.00
+PART NO. REV: 70U9559/E
+DRAWING REF: 70U9559-A
+MATERIAL SPEC: EMS-MA-78-5/I
+COATING SPEC: EWI-C-10-1/H
+REF: EWI-MM-51-4/M
+---------------------------------------
+QUOTE REF: CALL OF PO C0009
+---------------------------------------
+FLD.55953-150 26.00 EACH RELIEF VALVE 5/8-18 LH THD 150-180 PS1 19/08/25 19.40 504.40
+BRASS RELIEF VALVE - .62-18UNFLEFT HAND THREAD,
+150 TO 180 PSI BURST
+PART NO. REV: D.55953-150/E 
+TOTAL Continued
+Page 12 of 17NOV ProductsMiddle East-Fze
+Dubai P.O.BOX NO :61490 JEBEL ALI
+DUBAI United Arab Emirates
+Zone: Jebel Ali Free Zone.
+Tel: +971 4 8100 100 / +971 4 8048 900
+Email: purchasedubai@nov.com Web: www.nov.com/Elmar
+MEA 1105108 Hyperion: 1122 
+ORDER NUMBER : 023421
+TO: DATE : 24/06/25
+JacksonInternational ACCOUNT No. : J037C
+3620 Long Beach Blvd. Suite C5 
+PURCHASE ORDER 
+REFERENCE : C0004/C0009/ROR25/TT
+Long Beach, CA 90807 BUYER : thajudtj
++886918889228 APPROVER : thajudtj
+john.shaw@jackson-international. 
+Line Date
+Product No./Service Quantity Units Description Number Required Nett Price Value
+DRAWING REF: 55953-D
+REF: EWI-MM-51-4/M
+FL70U2618-XC 3.00 EACH LOCK CAP 5-4 AC LIFT EYE XYLAN COATED 19/08/25 231.00 693.00
+PART NO. REV: 70U2618-XC/A1
+DRAWING REF: 70U2618-A
+MATERIAL SPEC: EMS-MA-18-9/N
+COATING SPEC: EWI-C-106-6/R
+REF: EWI-MM-51-1/M
+FL70U5864 2.00 EACH CAP FSBL LOCKOUT 8-8 UN 19/08/25 418.00 836.00
+PART NO. REV: 70U5864/D
+DRAWING REF: 70U5864-B
+MATERIAL SPEC: EMS-MA-18-4/N
+COATING SPEC: EWI-C-106-6/R
+REF: EWI-MM-51-1/M 
+TOTAL Continued
+Page 13 of 17NOV ProductsMiddle East-Fze
+Dubai P.O.BOX NO :61490 JEBEL ALI
+DUBAI United Arab Emirates
+Zone: Jebel Ali Free Zone.
+Tel: +971 4 8100 100 / +971 4 8048 900
+Email: purchasedubai@nov.com Web: www.nov.com/Elmar
+MEA 1105108 Hyperion: 1122 
+ORDER NUMBER : 023421
+TO: DATE : 24/06/25
+JacksonInternational ACCOUNT No. : J037C
+3620 Long Beach Blvd. Suite C5 
+PURCHASE ORDER 
+REFERENCE : C0004/C0009/ROR25/TT
+Long Beach, CA 90807 BUYER : thajudtj
++886918889228 APPROVER : thajudtj
+john.shaw@jackson-international. 
+Line Date
+Product No./Service Quantity Units Description Number Required Nett Price Value
 ****************************************
 DOCUMENTS TO FOLLOW:-
 STANDARD QA INSTRUCTION
@@ -166,133 +515,141 @@ DOC NO. 3764 REV 2
 STANDARD QUALITY CONTROL FOR API 6A
 DOC NO. 3809 REV 1
 ****************************************
-Note:- Any Deviationfrom the provided
-TechnicalSpecification/Drawingswill
-not be acceptedUnless you have obtained
-an approvedconcessionrequest from NOV
+NOTE:- ANY DEVIATION FROM THE PROVIDED
+TECHNICAL SPECIFICATION/ DRAWINGS WILL
+NOT BE ACCEPTED UNLESS YOU HAVE OBTAINED
+AN APPROVED CONCESSION REQUEST FROM NOV
 ---------------------------------------
-All processes,manufacturing,and
-certificationsmust strictlyadhere to
-the specificationsoutlined in the
-above-mentioneddrawings,
-TechnicalSpecifications,and relevant
-procedures.Compliancewith these
-standardsis crucialto ensuringthe
-quality and conformityof the delivered 
+ALL PROCESSES, MANUFACTURING,AND
+CERTIFICATIONSMUST STRICTLY ADHERE TO
+THE SPECIFICATIONS OUTLINED IN THE
+ABOVE-MENTIONEDDRAWINGS,
+TECHNICAL SPECIFICATIONS,AND RELEVANT
+PROCEDURES. COMPLIANCE WITH THESE
+STANDARDS IS CRUCIAL TO ENSURING THE
+QUALITY AND CONFORMITY OF THE DELIVERED 
 TOTAL Continued
-Page 4 of 7
-Note: For QC & Purchasingguidelinespleasereferto AME QCPURCHlatestissue.Copyavailableon requestNOV ProductsMiddle East-Fze
+Page 14 of 17NOV ProductsMiddle East-Fze
 Dubai P.O.BOX NO :61490 JEBEL ALI
 DUBAI United Arab Emirates
 Zone: Jebel Ali Free Zone.
 Tel: +971 4 8100 100 / +971 4 8048 900
 Email: purchasedubai@nov.com Web: www.nov.com/Elmar
 MEA 1105108 Hyperion: 1122 
-ORDER NUMBER : 014166
-TO: DATE : 09/05/24
+ORDER NUMBER : 023421
+TO: DATE : 24/06/25
 JacksonInternational ACCOUNT No. : J037C
 3620 Long Beach Blvd. Suite C5 
 PURCHASE ORDER 
-REFERENCE : ROR 18-2/TT
+REFERENCE : C0004/C0009/ROR25/TT
 Long Beach, CA 90807 BUYER : thajudtj
 +886918889228 APPROVER : thajudtj
 john.shaw@jackson-international. 
-QA Date
-Product No./Service Quantity Units Description Requirement Required Nett Price Value
-goods or services.In the event of any
-missing documentsor incorrect
-revisions,it is imperativeto inform
-and promptly request them to ensure
-full complianceand adherenceto the
-specifiedstandards.
+Line Date
+Product No./Service Quantity Units Description Number Required Nett Price Value
+GOODS OR SERVICES. IN THE EVENT OF ANY
+MISSING DOCUMENTS OR INCORRECT
+REVISIONS, IT IS IMPERATIVE TO INFORM
+AND PROMPTLY REQUEST THEM TO ENSURE
+FULL COMPLIANCE AND ADHERENCE TO THE
+SPECIFIED STANDARDS.
 ****************************************
-LEVEL 3
-The productsand associated
-documentationshall be subjectedto
-receipt inspectionat Elmar's goods
-inward reciept Area.
+LEVEL 1
+INSPECTION BY NOV AT POINT OF MFG.
+THE SUPPLIER SHALL SUBMIT A QUALITY PLAN
+FOR APPROVAL BY NOV TO MONITOR THE
+MANUFACTURE AND RELEASE OF THE PRODUCTS
 ---------------------------------------
-LEVEL B- Inspectiondocumentsrequired:-
-Inspectioncertificateaccordingto
-EN 10204 (Latest Edition) Certificate
-"Type 3.1". Please send soft copy of
-all Docs/certsto IS-ARE-QACerts@nov.com
+LEVEL B- INSPECTION DOCUMENTS REQUIRED:-
+INSPECTION CERTIFICATE ACCORDING TO
+EN 10204 (LATEST EDITION) CERTIFICATE
+"TYPE 3.1". PLEASE SEND SOFT COPY OF ALL
+DOCS/CERTS TO EE-ARE-SUPPLIERMTR@NOV.COM
 ---------------------------------------
 WORK INSTRUCTIONPROCEDURE
-Provide COC, MTC for approvalTND will
-issued ,completed ITP to be providedas 
+PLS SUBMIT THE MTC'S VIA TN APP.
+TN WILL BE ISSUED ACCORDINLGY. 
 TOTAL Continued
-Page 5 of 7
-Note: For QC & Purchasingguidelinespleasereferto AME QCPURCHlatestissue.Copyavailableon requestNOV ProductsMiddle East-Fze
+Page 15 of 17NOV ProductsMiddle East-Fze
 Dubai P.O.BOX NO :61490 JEBEL ALI
 DUBAI United Arab Emirates
 Zone: Jebel Ali Free Zone.
 Tel: +971 4 8100 100 / +971 4 8048 900
 Email: purchasedubai@nov.com Web: www.nov.com/Elmar
 MEA 1105108 Hyperion: 1122 
-ORDER NUMBER : 014166
-TO: DATE : 09/05/24
+ORDER NUMBER : 023421
+TO: DATE : 24/06/25
 JacksonInternational ACCOUNT No. : J037C
 3620 Long Beach Blvd. Suite C5 
 PURCHASE ORDER 
-REFERENCE : ROR 18-2/TT
+REFERENCE : C0004/C0009/ROR25/TT
 Long Beach, CA 90807 BUYER : thajudtj
 +886918889228 APPROVER : thajudtj
 john.shaw@jackson-international. 
-QA Date
-Product No./Service Quantity Units Description Requirement Required Nett Price Value
-per 3776 Rev1 (EME-MSITP-001)
+Line Date
+Product No./Service Quantity Units Description Number Required Nett Price Value
+ITP TO BE PROVIDED AS PER 3776 REV 1
+(EME-MSITP-001)
+---------------------------------------
+DOCUMENTS REQUIRED WITH EACH DELIVERY:-
+*CERTIFICATE OF CONFIRMITY
+*INSPECTION TEST PLAN
+*BUBBLE DRAWING
+---------------------------------------
+***** A MUST REQUIREMENT !!!*****
+ALL CERTIFICTES SHOULD BE EMAILED TO
+EE-ARE-SUPPLIERMTR@NOV.COM
+ALWAYS MAKE SURE THIS DONE PRIOR
+TO EACH DELIVERY !!!! (IF AVAILABLE)
 ****************************************
 ** BILLING INSTRUCTIONIMPORTANT **
-For payment processing,please make sure
-PO value matches w/invoicevalue. Send
-DELIVERY NOTE along w/the Invoice copy.
-Indicate correctbilling details as
-mentionedbelow
+FOR PAYMENT PROCESSING, PLEASE MAKE SURE
+PO VALUE MATCHES W/INVOICE VALUE. SEND
+DELIVERY NOTE ALONG W/THE INVOICE COPY.
+INDICATE CORRECT BILLING DETAILS AS
+MENTIONED BELOW
 ---------------------------------------
-Supplier Name/ Address/Invoice date &
-Currency/Correct bank details (A/C no,
-A/C Name, Bank address,IBAN/SWIFT/sort
-code if applicable)to
-IS-ARE-NOVElmarMEAccounts@nov.com
-discrepancywillresult in inv rejection
----------------------------------------
-Invoice Address:-
-NOV ProductsMiddle East - FZE
-P.O. Box 61490, Jebel Ali, Dubai
-United Arab Emirates
-TRN: 100559942600003
-**************************************** 
+SUPPLIER NAME/ ADDRESS/ INVOICE DATE & 
 TOTAL Continued
-Page 6 of 7
-Note: For QC & Purchasingguidelinespleasereferto AME QCPURCHlatestissue.Copyavailableon requestNOV ProductsMiddle East-Fze
+Page 16 of 17NOV ProductsMiddle East-Fze
 Dubai P.O.BOX NO :61490 JEBEL ALI
 DUBAI United Arab Emirates
 Zone: Jebel Ali Free Zone.
 Tel: +971 4 8100 100 / +971 4 8048 900
 Email: purchasedubai@nov.com Web: www.nov.com/Elmar
 MEA 1105108 Hyperion: 1122 
-ORDER NUMBER : 014166
-TO: DATE : 09/05/24
+ORDER NUMBER : 023421
+TO: DATE : 24/06/25
 JacksonInternational ACCOUNT No. : J037C
 3620 Long Beach Blvd. Suite C5 
 PURCHASE ORDER 
-REFERENCE : ROR 18-2/TT
+REFERENCE : C0004/C0009/ROR25/TT
 Long Beach, CA 90807 BUYER : thajudtj
 +886918889228 APPROVER : thajudtj
 john.shaw@jackson-international. 
-QA Date
-Product No./Service Quantity Units Description Requirement Required Nett Price Value
-PreparedBy;
-Thariq Thajudeen
+Line Date
+Product No./Service Quantity Units Description Number Required Nett Price Value
+CURRENCY/ CORRECT BANK DETAILS (A/C NO,
+A/C NAME, BANK ADDRESS, IBAN/SWIFT/SORT
+CODE IF APPLICABLE) TO
+IS-ARE-NOVELMARMEACCOUNTS@NOV.COM
+DISCREPANCYWILLRESULT IN INV REJECTION
+---------------------------------------
+INVOICE ADDRESS:-
+NOV PRODUCTS MIDDLE EAST - FZE
+P.O. BOX 61490, JEBEL ALI, DUBAI
+UNITED ARAB EMIRATES
+TRN: 100559942600003
+****************************************
+PREPARED BY;
+THARIQ THAJUDEEN
 D: +971 4 804 8903; M: +971 56 412 7523
-Thariq.Thajudeen@nov.com
+THARIQ.THAJUDEEN@NOV.COM
 ****************************************
 **************************************** 
-TOTAL 1815.50
+TOTAL 15125.27
 US$
-Page 7 of 7
-Note: For QC & Purchasingguidelinespleasereferto AME QCPURCHlatestissue.Copyavailableon request(cid:1)(cid:2)(cid:3)(cid:4)(cid:5)(cid:1)(cid:2)(cid:6)(cid:5)(cid:4)(cid:6)(cid:8) (cid:6)(cid:6) (cid:2)(cid:11) (cid:5) (cid:6)(cid:14)(cid:15)(cid:14)(cid:16)(cid:17)(cid:18)(cid:19)(cid:20)(cid:21)(cid:2)(cid:22)(cid:22)(cid:4)(cid:6)(cid:4)(cid:2)(cid:3) (cid:23)(cid:24)(cid:25)(cid:1)(cid:5) (cid:26)(cid:27)(cid:15)(cid:28)(cid:11) (cid:29)(cid:2)(cid:23) (cid:5)(cid:11)(cid:30) (cid:11)(cid:3) (cid:11)(cid:31)(cid:23)(cid:2)(cid:1)(cid:30) (cid:5)(cid:1)(cid:30)(cid:4)(cid:3)(cid:4)(cid:5)(cid:1)(cid:23)
+Page 17 of 17(cid:1)(cid:2)(cid:3)(cid:4)(cid:5)(cid:1)(cid:2)(cid:6)(cid:5)(cid:4)(cid:6)(cid:8) (cid:6)(cid:6) (cid:2)(cid:11) (cid:5) (cid:6)(cid:14)(cid:15)(cid:14)(cid:16)(cid:17)(cid:18)(cid:19)(cid:20)(cid:21)(cid:2)(cid:22)(cid:22)(cid:4)(cid:6)(cid:4)(cid:2)(cid:3) (cid:23)(cid:24)(cid:25)(cid:1)(cid:5) (cid:26)(cid:27)(cid:15)(cid:28)(cid:11) (cid:29)(cid:2)(cid:23) (cid:5)(cid:11)(cid:30) (cid:11)(cid:3) (cid:11)(cid:31)(cid:23)(cid:2)(cid:1)(cid:30) (cid:5)(cid:1)(cid:30)(cid:4)(cid:3)(cid:4)(cid:5)(cid:1)(cid:23)
 (cid:1)(cid:2)(cid:4)(cid:5)(cid:6)(cid:6)(cid:5)(cid:7)(cid:8) (cid:11) (cid:5) (cid:14)(cid:15)(cid:5) (cid:11)(cid:16)(cid:11)(cid:17)(cid:16)(cid:18)(cid:18)(cid:19)(cid:16) (cid:20)(cid:8)(cid:21)(cid:19)(cid:7)(cid:22) (cid:8)(cid:18)(cid:5)(cid:23)(cid:7) (cid:5)(cid:7)(cid:2)(cid:23)(cid:7)(cid:20)(cid:23)(cid:23) (cid:18)(cid:23)(cid:7)(cid:18)(cid:5)(cid:7)(cid:24)(cid:16)(cid:22)(cid:5)(cid:18)(cid:25)(cid:26)(cid:27)(cid:19)(cid:17)(cid:5)(cid:7)(cid:28)(cid:29) (cid:8)(cid:24)(cid:5)(cid:8)(cid:20)(cid:7)(cid:5)(cid:5) (cid:16) (cid:30)(cid:7)(cid:16)(cid:11)(cid:16) (cid:20)(cid:11)(cid:23)(cid:8)(cid:18)(cid:5)(cid:21)(cid:8)(cid:7)(cid:8)(cid:11)(cid:5)(cid:24)(cid:5) (cid:23)(cid:7)(cid:8)(cid:20)(cid:7)(cid:5)(cid:5)(cid:31)(cid:5) (cid:11) (cid:23)(cid:7)(cid:8) (cid:8)(cid:20)(cid:7)(cid:5)(cid:5)(cid:31)(cid:5) (cid:11)(cid:23)(cid:2)(cid:18)(cid:16)(cid:31)(cid:16)(cid:6)(cid:8)(cid:7) (cid:8)(cid:11)(cid:19)(cid:7)(cid:5)(cid:20)(cid:23)(cid:24)(cid:5)(cid:7) (cid:16) (cid:20)(cid:4)(cid:5)(cid:6)(cid:6)(cid:5)(cid:7)!(cid:18)(cid:21)(cid:7)(cid:23)(cid:24)(cid:16)(cid:18)(cid:16)(cid:23) (cid:23)(cid:2)(cid:20)(cid:23)(cid:23) (cid:18)(cid:23)(cid:7)(cid:18)(cid:5)(cid:7)(cid:24)(cid:16)(cid:22)(cid:5)(cid:18)(cid:11)(cid:23)(cid:27)(cid:19)(cid:17)(cid:5)(cid:7)(cid:25)(cid:22)(cid:23)(cid:6)(cid:6)(cid:5)(cid:22)(cid:11)(cid:16)(cid:24)(cid:5)(cid:6)(cid:17)(cid:8) (cid:26) (cid:2)(cid:28)(cid:29) (cid:30) (cid:16)(cid:22) (cid:15)"(cid:16)(cid:18)(cid:16) (cid:2)(cid:23)(cid:7)(cid:22)(cid:5)(cid:30) (cid:5) (cid:4)(cid:5)(cid:6)(cid:6)(cid:5)(cid:7)(cid:8)(cid:22)(cid:22)(cid:5)(cid:21)(cid:11)(cid:18)(cid:8)
 (cid:21)(cid:19)(cid:7)(cid:22) (cid:8)(cid:18)(cid:5)(cid:23)(cid:7) (cid:5)(cid:7)(cid:16)(cid:18)(cid:18)(cid:19)(cid:5) #(cid:17)(cid:27)(cid:19)(cid:17)(cid:5)(cid:7)(cid:25)(cid:8) (cid:26)(cid:5) (cid:18)! (cid:28)(cid:29) (cid:18)(cid:19)(cid:22) (cid:15)"(cid:18) (cid:8)(cid:6)(cid:6)(cid:8)(cid:21)(cid:21)(cid:6)(cid:17)(cid:11)(cid:23)(cid:11) (cid:5)(cid:14)(cid:7) (cid:5)(cid:7)(cid:8) (cid:18)(cid:19)(cid:21)(cid:5)(cid:7)(cid:18)(cid:5) (cid:5)(cid:11) (cid:5)(cid:18)(cid:5)(cid:11)(cid:5)(cid:7)(cid:31)(cid:18)(cid:8) (cid:22)(cid:23) (cid:16)(cid:11)(cid:16)(cid:23) (cid:18)(cid:25)(cid:11) (cid:5)(cid:18)(cid:5)(cid:26)(cid:3)! "(cid:21)(cid:16)(cid:17)(cid:18) #(cid:17)(cid:18)(cid:19)(cid:20)(cid:19)#(cid:17)(cid:21)(cid:28)(cid:29)(cid:8) (cid:8) (cid:17)(cid:11)(cid:5)(cid:7)(cid:31)(cid:18)(cid:8) (cid:22)(cid:23) (cid:16)(cid:11)(cid:16)(cid:23) (cid:18)(cid:23)(cid:2)(cid:18)(cid:8)(cid:6)(cid:5)(cid:23)(cid:2)(cid:4)(cid:5)(cid:6)(cid:6)(cid:5)(cid:7)(cid:16) (cid:22)(cid:6)(cid:19) (cid:16) (cid:20) #(cid:19)(cid:11) (cid:23)(cid:11)(cid:6)(cid:16)(cid:31)(cid:16)(cid:11)(cid:5) (cid:11)(cid:23) (cid:11) (cid:23)(cid:18)(cid:5)(cid:16) (cid:22)(cid:6)(cid:19) (cid:5) #(cid:17)(cid:4)(cid:5)(cid:6)(cid:6)(cid:5)(cid:7)(cid:16) (cid:16)(cid:11)(cid:18)(cid:8)(cid:22)(cid:22)(cid:5)(cid:21)(cid:11)(cid:8) (cid:22)(cid:5)(cid:23)(cid:2)(cid:11) (cid:5)(cid:14)(cid:7) (cid:5)(cid:7)$(cid:1)(cid:2) (cid:23)(cid:15)"(cid:16)(cid:18)(cid:16)
 (cid:2)(cid:23)(cid:7)(cid:22)(cid:5)#(cid:5)(cid:11)(cid:30)(cid:5)(cid:5) (cid:11) (cid:5)(cid:21)(cid:8)(cid:7)(cid:11)(cid:16)(cid:5)(cid:18)(cid:19) (cid:6)(cid:5)(cid:18)(cid:18)(cid:23)(cid:11) (cid:5)(cid:7)(cid:30)(cid:16)(cid:18)(cid:5)(cid:8)(cid:20)(cid:7)(cid:5)(cid:5) (cid:11)(cid:23)#(cid:17)(cid:8) (cid:8)(cid:19)(cid:11) (cid:23)(cid:7)(cid:16)%(cid:5) (cid:7)(cid:5)(cid:21)(cid:7)(cid:5)(cid:18)(cid:5) (cid:11)(cid:8)(cid:11)(cid:16)(cid:24)(cid:5)(cid:23)(cid:2)(cid:27)(cid:19)(cid:17)(cid:5)(cid:7) (cid:11) (cid:5)(cid:18)(cid:5)&(cid:5)(cid:7)(cid:31)(cid:18)(cid:8) '(cid:23) (cid:16)(cid:11)(cid:16)(cid:23) (cid:18)(cid:18) (cid:8)(cid:6)(cid:6)(cid:23)(cid:24)(cid:5)(cid:7)(cid:7)(cid:16) (cid:5)(cid:8) (cid:17)(cid:11)(cid:5)(cid:7)(cid:31)(cid:18)(cid:8) (cid:22)(cid:23) (cid:16)(cid:11)(cid:16)(cid:23) (cid:18)(cid:23)(cid:2)(cid:18)(cid:8)(cid:6)(cid:5)(cid:23)(cid:2)(cid:4)(cid:5)(cid:6)(cid:6)(cid:5)(cid:7)(cid:16) (cid:22)(cid:6)(cid:19) (cid:16) (cid:20) #(cid:19)(cid:11) (cid:23)(cid:11)(cid:6)(cid:16)(cid:31)(cid:16)(cid:11)(cid:5) (cid:11)(cid:23) (cid:11) (cid:23)(cid:18)(cid:5)(cid:16) (cid:22)(cid:6)(cid:19) (cid:5) #(cid:17)(cid:4)(cid:5)(cid:6)(cid:6)(cid:5)(cid:7)(cid:16) (cid:16)(cid:11)(cid:18)(cid:8)(cid:22)(cid:22)(cid:5)(cid:21)(cid:11)(cid:8) (cid:22)(cid:5)(cid:23)(cid:2)(cid:8) (cid:17)(cid:14)(cid:7) (cid:5)(cid:7)$ & (cid:5)(cid:22)(cid:23) (cid:11)(cid:7)(cid:8)(cid:22)(cid:11)(cid:7)(cid:5)(cid:18)(cid:19)(cid:6)(cid:11)(cid:16) (cid:20)(cid:2)(cid:7)(cid:23)(cid:31)
